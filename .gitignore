@@ -1,5 +1,8 @@
 # python Enviroment
 
-airflow-pipeline
+airflow-pipeline/
 # configuration files 
 config/config.conf
+
+# ipynb notebooks
+notebooks/
